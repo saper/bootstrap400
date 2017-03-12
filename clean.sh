@@ -6,3 +6,4 @@ do
 	(cd "${MERABASE}/em${mod}" && git clean -dxf)
 done
 rm -rf "${DISTDIR}"
+rm -rf "${BUILDDIR}"
