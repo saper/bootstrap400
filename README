@@ -1,0 +1,12 @@
+Bootstrap EM400 emulator (https://github.com/jakubfi/em400)
+
+Checkout
+	https://github.com/jakubfi/emas
+	https://github.com/jakubfi/emawp
+	https://github.com/jakubfi/emcrk
+	https://github.com/jakubfi/emdas
+	https://github.com/jakubfi/emelf
+	https://github.com/jakubfi/emui
+	https://github.com/jakubfi/em400
+
+into ${MERADIR}
